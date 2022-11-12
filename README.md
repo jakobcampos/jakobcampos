@@ -7,5 +7,5 @@
       <a href="https://twitter.com/jakobsdesk">
          <img alt="Twitter" src="https://img.shields.io/badge/Twitter-018bff.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
       <a href="https://www.instagram.com/jakobsdesk/">
-         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-470137.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF3366.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
    </p>
