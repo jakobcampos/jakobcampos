@@ -2,7 +2,7 @@
 
 <p align="left">
       <a href="https://www.jakobcampos.com/">
-         <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+         <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://twitter.com/jakobsdesk">
