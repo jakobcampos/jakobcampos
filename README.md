@@ -1,4 +1,5 @@
-# <img src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" style="position:absolute; bottom:50px; width:25px; height:25px"> Jakob Campos
+# Jakob Campos <a href="https://github.com/jakobcampos"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 
 <p align="left">
       <a href="https://www.jakobcampos.com/">
