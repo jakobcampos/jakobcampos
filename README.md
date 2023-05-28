@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="body" align="center">
       <h1>Jakob Campos</h1>
 </div>
 
