@@ -20,7 +20,8 @@ I'm Jakob, a software engineer who believes in the power of elegant minimalism i
 When my head's not buried in a project, I'm probably trail running, brewing a fresh pot of coffee, or plotting my next adventure on a world map. I also like to ride my motorcycle to clear my head.
 </p>
 
-<b> 🛠 Skills </b>
+<b> 🛠 Languages </b>
+<p>
 - JavaScript (ES6+)
 - React + Redux
 - Node.js
@@ -28,3 +29,4 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 - MongoDB
 - CSS + Sass
 - HTML5
+</p>
