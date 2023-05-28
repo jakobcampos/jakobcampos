@@ -1,3 +1,9 @@
+<style>
+#header p {
+    font-size: 24px;
+}
+</style>
+
 <div id="header" align="center">
       <p style="font-size: 80px;">Jakob Campos</p>
 </div>
