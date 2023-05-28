@@ -21,7 +21,6 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 </p>
 
 <b> 🛠 Languages </b>
-<p>
 - JavaScript (ES6+)
 - React + Redux
 - Node.js
@@ -29,4 +28,3 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 - MongoDB
 - CSS + Sass
 - HTML5
-</p>
