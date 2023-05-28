@@ -12,7 +12,8 @@
             <a href="https://www.instagram.com/jakobsdesk/">
                <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
       </p>
-      <img src="https://komarev.com/ghpvc/?username=jakobcampos&style=flat-square&color=blue" alt=""/>
+      <a href="https://github.com/jakobcampos">
+      <img src="https://img.shields.io/badge/GitHub-Profile%20views-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt=""/></a>
 </div>
 
 🌋 About Me
