@@ -13,7 +13,7 @@
       </h1>
 </div>
 
-<b>🌋 About Me </b>
+###🌋 About Me
 <p>
 I'm Jakob, a software engineer who believes in the power of elegant minimalism in code and design. I specialize in full-stack development, primarily using JavaScript and its associated technologies. My passion for software doesn't end with coding; it extends to problem-solving, UX/UI design, and always learning new technologies.
 
