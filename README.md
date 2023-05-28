@@ -2,7 +2,7 @@
       <h1><a href="https://github.com/jakobcampos"><img src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" alt="GitHub" width="25px"></a>&nbsp;&nbsp;Jakob Campos</h2>
 </div>
 <div id="badges" align="center">
-      <p align="left">
+      <p align="center">
             <a href="https://www.jakobcampos.com/">
                <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
             </a>
