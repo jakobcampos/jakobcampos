@@ -1,5 +1,5 @@
 <div id="header" align="center">
-      <h2>Jakob Campos</h2>
+      <sup>Jakob Campos</sup>
 </div>
 
 <div id="badges" align="center">
