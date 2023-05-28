@@ -1,16 +1,18 @@
 <div id="header" align="center">
       <h1><a href="https://github.com/jakobcampos"><img src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" alt="GitHub" width="25px"></a>&nbsp;&nbsp;Jakob Campos</h2>
 </div>
-<p align="left">
-      <a href="https://www.jakobcampos.com/">
-         <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://twitter.com/jakobsdesk">
-         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
-      <a href="https://www.instagram.com/jakobsdesk/">
-         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-</p>
+<div id="badges" align="center">
+      <p align="left">
+            <a href="https://www.jakobcampos.com/">
+               <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+            </a>
+               <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            <a href="https://twitter.com/jakobsdesk">
+               <img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+            <a href="https://www.instagram.com/jakobsdesk/">
+               <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+      </p>
+</div>
 
 ## 🌋 About Me
 I'm Jakob, a software engineer who believes in the power of elegant minimalism in code and design. I specialize in full-stack development, primarily using JavaScript and its associated technologies. My passion for software doesn't end with coding; it extends to problem-solving, UX/UI design, and always learning new technologies.
