@@ -1,8 +1,6 @@
-<div id="header" align="center">
-      <b>Jakob Campos</b>
-</div>
-
+      
 <div id="badges" align="center">
+      <h1>Jakob Campos</h1>
       <p align="center">
             <a href="https://www.jakobcampos.com/">
                <img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
