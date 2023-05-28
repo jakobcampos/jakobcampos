@@ -1,5 +1,6 @@
 <div id="header" align="center">
-      <h1><a href="https://github.com/jakobcampos"><img src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" alt="GitHub" width="25px"></a>&nbsp;&nbsp;Jakob Campos</h2>
+      <h1><a href="https://github.com/jakobcampos"></a>Jakob Campos</h2>
+      <img src="https://user-images.githubusercontent.com/59932098/104577259-8ea22080-5659-11eb-8efe-43e03c3b490f.png" alt="GitHub" width="25px">
 </div>
 <div id="badges" align="center">
       <p align="center">
