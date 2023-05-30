@@ -37,6 +37,8 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobcampos&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobcampos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakobcampos&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
