@@ -13,11 +13,11 @@
       </h1>
 </div>
 
-### 🌋 About Me :
+### 🌋  About Me :
 I'm Jakob, a software engineer who believes in the power of elegant minimalism in code and design. I specialize in full-stack development, primarily using JavaScript and its associated technologies. My passion for software doesn't end with coding; it extends to problem-solving, UX/UI design, and always learning new technologies.
 When my head's not buried in a project, I'm probably trail running, brewing a fresh pot of coffee, or plotting my next adventure on a world map. I also like to ride my motorcycle to clear my head.
 
-### :hammer_and_wrench: Languages and Tools :
+###  :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 </div>
 <br>
 
-### 📊 Statistics
+###  📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobcampos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
       
