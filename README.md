@@ -37,7 +37,7 @@ When my head's not buried in a project, I'm probably trail running, brewing a fr
 </div>
 <br>
 
-### Statistics
+### 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobcampos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
       
