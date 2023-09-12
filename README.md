@@ -14,7 +14,7 @@
 </div>
 
 ### 🌋  About Me :
-"Hey, I'm Jakob. I'm all about clean and simple code as a developer. I mostly work with JavaScript and love both coding and design. Besides tech stuff, you'll find me trail running, making coffee, planning trips, or out on my motorcycle."
+Hey, I'm Jakob. I'm all about clean and simple code as a developer. I mostly work with JavaScript and love both coding and design.
 
 ###  :hammer_and_wrench: Languages and Tools :
 <div>
