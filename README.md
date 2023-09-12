@@ -14,8 +14,7 @@
 </div>
 
 ### 🌋  About Me :
-I'm Jakob, a software engineer who believes in the power of elegant minimalism in code and design. I specialize in full-stack development, primarily using JavaScript and its associated technologies. My passion for software doesn't end with coding; it extends to problem-solving, UX/UI design, and always learning new technologies.
-When my head's not buried in a project, I'm probably trail running, brewing a fresh pot of coffee, or plotting my next adventure on a world map. I also like to ride my motorcycle to clear my head.
+"Hey, I'm Jakob. I'm all about clean and simple code as a developer. I mostly work with JavaScript and love both coding and design. Besides tech stuff, you'll find me trail running, making coffee, planning trips, or out on my motorcycle."
 
 ###  :hammer_and_wrench: Languages and Tools :
 <div>
